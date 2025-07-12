@@ -1,5 +1,5 @@
 # fasiclinfisioterapiaanamnesemobile
-Registro de Anamnese de Fisioterapia da FASICLIN - versão Mobile Android
+Registro de Exercícios prescritos para realizar em casa de Fisioterapia da FASICLIN - versão Mobile Android
 
 - Servidor Apache
 - \api (Backend)

@@ -7,7 +7,7 @@ Versão do módulo Web de Registro de Anamnese de Fisioterapia apresentado no di
 - \api (Backend)
 
 - Android Studio 
-- \AppFisioJavaPaciente (frontend Offline)
+- \AppFisioJavaPaciente (frontend Offline) esta compactado em 3 arquivos por limitações de envvio do github. baixar os tres aquivos e descompactar
 
   
 Usuário de acesso é o cpf do paciente + token informado pelo profissional após prescrição da Anamnese
